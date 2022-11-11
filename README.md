@@ -12,14 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Zehra</h1>
+<h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-<h1 align="center">Merhaba 👋, ben Zehra</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştirici.</h3>
-
-<h3 align="left">Benimle iletişime geçin: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://flutter .dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" yükseklik ="40"/> </a> </p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
